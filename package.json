@@ -19,6 +19,6 @@
   "homepage": "https://github.com/DutchBros/code-challenge#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "sequelize": "^5.2.11"
+    "sequelize": "^5.15.1"
   }
 }
